@@ -1,0 +1,39 @@
+.home {
+  position: relative;
+  min-height: 950px;
+  padding: 300px 0;
+}
+.container {
+}
+
+.home-content {
+  max-width: 950px;
+}
+
+.home-heading {
+  color: bisque;
+  font-size: 70px;
+  font-weight: 700;
+  margin-bottom: 35px;
+}
+
+.home-text {
+  color: beige;
+  font-style: italic;
+}
+
+.home-bg-image {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgb(61, 79, 126);
+  z-index: -1;
+}
+
+.home-bg-image img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
