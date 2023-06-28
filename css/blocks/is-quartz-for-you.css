@@ -1,0 +1,32 @@
+.is-quartz-for-you {
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.is-quartz-for-you-steps {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 360px);
+  justify-content: center;
+  grid-column-gap: 100px;
+}
+
+.is-quartz-for-you-title {
+  font-size: 50px;
+  font-weight: 600;
+  line-height: 140px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 30px;
+  font-weight: 500;
+  padding-top: 30px;
+  text-align: center;
+}
+
+.editors-text,
+.researchers-text,
+.institutions-text {
+  text-align: center;
+  padding-top: 10px;
+}
