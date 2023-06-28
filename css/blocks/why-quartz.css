@@ -1,0 +1,18 @@
+.why-quartz {
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.why-quartz-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 600px);
+  grid-gap: 100px;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 50px;
+}
+
+.why-quartz-title {
+  font-size: 50px;
+  font-weight: 600;
+}
