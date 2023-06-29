@@ -1,0 +1,31 @@
+.team {
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.team-title {
+  font-size: 50px;
+  font-weight: 600;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.team-content {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 230px);
+  grid-gap: 50px;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 50px;
+}
+
+.team-member-foto {
+  padding-bottom: 20px;
+  width: 230px;
+  padding-top: 0px;
+}
+
+.team-member-name,
+.team-membe-text {
+  text-align: center;
+}
